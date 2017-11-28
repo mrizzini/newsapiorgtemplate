@@ -34,5 +34,5 @@ $(document).ready (function() {
     });
 });
 
-// https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=a8fddf92450a41a696d220a9cce08170
+
 
